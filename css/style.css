@@ -1,0 +1,29 @@
+@import url("./reset.css");
+@import url("./header.css");
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+:root{
+    --font-medium: 500;
+    --neutral-600: #61656E;
+    --neutral-900: #12161D;
+    --white: #ffffff;
+    /* --neutral-100: #E5E5E6;
+    --neutral-25: #FAFAFB; */
+
+}
+ 
+body{
+    background-color: var(--white);
+    font-size: 16px;
+    font-family: "Inter";
+}
+
+button{
+    font-family: "Inter";
+    background-color: transparent;
+    border: none;
+    padding: 0;
+}
