@@ -1,5 +1,10 @@
+.infos{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
 .infos-container{
-    margin: 80px 80px 120px 680px;
+    margin: 80px 80px 120px 0px;
     display: flex;
     flex-direction: column;
     gap: 40px;
