@@ -1,5 +1,6 @@
 @import url("./reset.css");
 @import url("./header.css");
+@import url("./main.css");
 
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -26,4 +27,5 @@ button{
     background-color: transparent;
     border: none;
     padding: 0;
+    cursor: pointer;
 }
