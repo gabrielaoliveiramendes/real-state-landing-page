@@ -1,0 +1,18 @@
+.infos-container{
+    margin: 80px 80px 120px 680px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.infos-text h3{
+    font-size: 24px;
+    font-weight: var(--font-medium);
+    color: var(--neutral-900);
+    margin-bottom: 24px;
+}
+
+.infos-text p{
+    font-size: 18px;
+    color: var(--neutral-600);
+}

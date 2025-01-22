@@ -3,7 +3,7 @@
 @import url("./main.css");
 @import url("./statistics.css");
 @import url("./gallery.css");
-
+@import url("./infos.css");
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
@@ -13,9 +13,6 @@
     --neutral-600: #61656E;
     --neutral-900: #12161D;
     --white: #ffffff;
-    /* --neutral-100: #E5E5E6;
-    --neutral-25: #FAFAFB; */
-
 }
  
 body{
