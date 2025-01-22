@@ -1,0 +1,26 @@
+.examples{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 120px 80px;
+}
+
+.examples-container-text{
+    margin-bottom: 92px;
+}
+
+.examples-container-text h2{
+    font-size: 44px;
+    font-weight: var(--font-medium);
+    color: var(--neutral-900);
+}
+
+.examples-container-text p{
+    font-size: 18px;
+    color: var(--neutral-600);
+    margin-top: 24px;
+    margin-right: 50px;
+}
+
+.examples-imgs{
+    text-align: center;
+}
