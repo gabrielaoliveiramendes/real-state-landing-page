@@ -1,10 +1,12 @@
 .examples{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    padding: 120px 80px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 120px 80px;
 }
 
 .examples-container-text{
+    width: 550px;
     margin-bottom: 92px;
 }
 
@@ -12,15 +14,20 @@
     font-size: 44px;
     font-weight: var(--font-medium);
     color: var(--neutral-900);
+    margin-bottom: 24px;
 }
 
 .examples-container-text p{
     font-size: 18px;
     color: var(--neutral-600);
-    margin-top: 24px;
-    margin-right: 50px;
 }
 
 .examples-imgs{
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.examples-imgs-picture{
+    margin-bottom: 68px;
 }
