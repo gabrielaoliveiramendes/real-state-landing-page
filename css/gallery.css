@@ -1,11 +1,11 @@
 .gallery{
-    height: 400px;
+    height: 25rem;
     align-content: center;
 }
 
 .gallery-images{
     display: flex;
     flex-wrap: nowrap;
-    margin-left: 80px;
-    gap: 40px;
+    margin-left: 5rem;
+    gap: 2.5rem;
 }

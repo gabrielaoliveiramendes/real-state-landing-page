@@ -4,20 +4,20 @@
 }
 
 .infos-container{
-    margin: 80px 80px 120px 0px;
+    margin: 5rem 5rem 7.5rem 0;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 2.5rem;
 }
 
 .infos-text h3{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: var(--font-medium);
     color: var(--neutral-900);
-    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
 }
 
 .infos-text p{
-    font-size: 18px;
+    font-size: 1.125rem;
     color: var(--neutral-600);
 }

@@ -1,24 +1,24 @@
 .examples{
     display: flex;
     justify-content: center;
-    gap: 50px;
-    margin: 120px 80px;
+    gap: 3.12rem;
+    margin: 7.5rem 5rem;
 }
 
 .examples-container-text{
-    width: 550px;
-    margin-bottom: 92px;
+    width: 34.37rem;
+    margin-bottom: 5.75rem;
 }
 
 .examples-container-text h2{
-    font-size: 44px;
+    font-size: 2.75rem;
     font-weight: var(--font-medium);
     color: var(--neutral-900);
-    margin-bottom: 24px;
+    margin-bottom: 1.5rem;
 }
 
 .examples-container-text p{
-    font-size: 18px;
+    font-size: 1.125rem;
     color: var(--neutral-600);
 }
 
@@ -29,5 +29,5 @@
 }
 
 .examples-imgs-picture{
-    margin-bottom: 68px;
+    margin-bottom: 4.25rem;
 }
